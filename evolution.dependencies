@@ -1,0 +1,27 @@
+[
+  {
+    "repository": "vendor_oplus_op6893",
+    "branch": "bka",
+    "target_path": "vendor/oplus/op6893"
+  },
+  {
+    "repository": "kernel_oplus_mt6893",
+    "branch": "bka",
+    "target_path": "kernel/oplus/mt6893"
+  },
+  {
+    "repository": "hardware_oplus",
+    "branch": "bka",
+    "target_path": "hardware/oplus"
+  },
+  {
+    "repository": "hardware_mediatek",
+    "branch": "bka",
+    "target_path": "hardware/mediatek"
+  },
+  {
+    "repository": "device_mediatek_sepolicy_vndr",
+    "branch": "bka",
+    "target_path": "device/mediatek/sepolicy_vndr"
+  }
+]
