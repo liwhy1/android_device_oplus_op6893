@@ -29,5 +29,11 @@
     "branch": "framework",
     "target_path": "vendor/oplus/camera",
     "remote": "gitlab"
+  },
+  {
+    "repository": "crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r498229b",
+    "branch": "14.0",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-r498229b",
+    "remote": "gitlab"
   }
 ]
