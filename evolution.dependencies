@@ -26,7 +26,7 @@
   },
   {
     "repository": "liwhy1/proprietary_vendor_oplus_camera",
-    "branch": "framework",
+    "branch": "main",
     "target_path": "vendor/oplus/camera",
     "remote": "gitlab"
   },
