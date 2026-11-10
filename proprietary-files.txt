@@ -1260,8 +1260,6 @@ odm/lib64/libgf_hal_G7.so
 odm/lib64/vendor.oplus.hardware.biometrics.fingerprint@2.1.so;MODULE_SUFFIX=_odm
 odm/lib64/vendor.oplus.hardware.commondcs@1.0.so;MODULE_SUFFIX=_odm
 odm/init.oplus.fingerprints.rc
-vendor/lib/vendor.oplus.hardware.commondcs@1.0.so
-vendor/lib64/vendor.oplus.hardware.commondcs@1.0.so
 
 # Firmware
 odm/firmware/fastchg/20615/charging_thermal_config_default.txt
