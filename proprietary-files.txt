@@ -1577,7 +1577,6 @@ odm/lib64/vendor.oplus.hardware.engineer@1.0.so
 odm/lib64/vendor.oplus.hardware.subsys-V1-ndk_platform.so
 odm/init.oplus.face.rc
 odm/init.oplus.seccommon.rc
-vendor/bin/conninfra_loader
 vendor/bin/dconfig
 vendor/bin/dexecutor
 vendor/bin/doeapp-memtester
@@ -1654,7 +1653,6 @@ vendor/etc/init/init.bt_drv.rc
 vendor/etc/init/init.cccimdinit.rc
 vendor/etc/init/init.cccirpcd.rc
 vendor/etc/init/init.connfem.rc
-vendor/etc/init/init.conninfra.rc
 vendor/etc/init/init.fmradio_drv.rc
 vendor/etc/init/init.fpsgo.rc
 vendor/etc/init/init.gps_drv.rc

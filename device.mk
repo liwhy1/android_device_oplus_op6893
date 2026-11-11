@@ -306,6 +306,10 @@ PRODUCT_PACKAGES += \
     RcsService \
     PresencePolling
 
+# Connectivity
+PRODUCT_PACKAGES += \
+    conninfra_loader
+
 # Rootdir
 PRODUCT_PACKAGES += \
     init.connectivity.common.rc \
@@ -320,7 +324,6 @@ PRODUCT_PACKAGES += \
     init.project.rc \
     init.sensor_2_0.rc \
     init.target.rc \
-    init_conninfra.rc \
     fstab.mt6893 \
     fstab.mt6893.ramdisk \
     ueventd.oplus.rc \
